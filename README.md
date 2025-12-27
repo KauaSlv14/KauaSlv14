@@ -106,38 +106,13 @@ const kaua = {
 <td width="50%" valign="top">
 
 ### 🤖 Automacao_pyautogui
-**Automated CSV → Website Data Entry**
+**Automation tool for repetitive tasks**  
+Python-based automation using PyAutoGUI to automate mouse and keyboard actions.
 
-Python automation that reads a CSV file and automatically registers each record into a website form using PyAutoGUI.
-
-**What was implemented:**
-
-Reads structured data from a CSV file (name, email, phone, etc.).
-
-Iterates through each row and maps CSV fields to website form inputs.
-
-**Uses PyAutoGUI to:**
-
-Focus the browser window.
-
-Click input fields.
-
-Type values from the CSV.
-
-Submit the form automatically.
-
-Adds configurable delays to ensure page stability.
-
-Skips invalid rows and logs success/failure for each record.
-
-**Stack:** Python · PyAutoGUI · CSV
-**Impact:**
-
-Eliminated manual form filling.
-
-Enabled bulk registrations directly from CSV files.
-
-Reduced errors and saved hours of repetitive work.
+**Stack:** Python · PyAutoGUI  
+**Impact:**  
+- Automates repetitive desktop tasks  
+- Improves efficiency in daily workflows
 
 🔗 [Repository](https://github.com/KauaSlv14/Automacao_pyautogui)
 
