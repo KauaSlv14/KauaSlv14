@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kau%C3%A3;Building+applications+and+automations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi+i+am+Kau%C3%A3+Almeida;Building+applications+and+automations" alt="Typing SVG" />
 </h1>
 
 <p align="center">
