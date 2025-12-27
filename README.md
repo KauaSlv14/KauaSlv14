@@ -37,3 +37,8 @@ const kaua = {
     websites: "Built responsive websites for clients"
   }
 };
+🏢 Organization
+
+  https://img.shields.io/badge/Developer-Tauge-FF6B00?style=for-the-badge&logo=github&logoColor=white
+
+I develop software at Tauge, focusing on automation, websites, and SaaS solutions.
