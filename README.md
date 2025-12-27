@@ -25,7 +25,6 @@ const kaua = {
   role: "Developer",
   company: "Tauge",
   experience: "Professional software developer",
-  languages: { portuguese: "native", english: "advanced" },
   available: true,
   specialization: [
     "SaaS platforms",
@@ -177,23 +176,3 @@ I build SaaS platforms, automation flows and dashboards — let’s talk!
 
 > **Currently available for freelance projects and consulting**  
 > 📅 [Schedule a call](mailto:zka18952@gmail.com)
-
----
-
-## 🎓 Education & Certifications
-
-**Academic**
-- B.S. in Systems Development (update with your institution if you want)
-
-**Professional Certifications**
-- (Add any certifications here — e.g., Power BI, Google IT Support, etc.)
-
----
-
-<p align="center">
-  <b>🌍 Open to remote opportunities worldwide!</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" alt="footer" />
-</p>
