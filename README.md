@@ -37,3 +37,91 @@ const kaua = {
     websites: "Built responsive websites for clients"
   }
 };
+🏢 Organization
+<p align="center"> <a href="https://github.com/Tauge"> <img src="https://img.shields.io/badge/Developer-Tauge-FF6B00?style=for-the-badge&logo=github&logoColor=white" alt="Organization: Tauge" /> </a> </p>
+
+I develop software at Tauge, focusing on automation, responsive websites, and SaaS solutions.
+
+🛠️ Tech Stack
+<div align="center">
+
+Core Development
+<br/>
+<img src="https://skillicons.dev/icons?i=python,flask,js,html&perline=4" alt="core stack" />
+
+<br/><br/>
+
+Data & Automation
+<br/>
+<img src="https://skillicons.dev/icons?i=git,docker&perline=2" alt="data & automation" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX" /> </div>
+
+📈 GitHub Stats
+
+  
+    https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauaSlv14&theme=tokyonight
+  
+
+
+  
+    https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauaSlv14&theme=tokyonight
+  
+  
+    https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KauaSlv14&theme=tokyonight&utcOffset=-3
+  
+
+GitHub Activity Graph
+
+🏆 Featured Projects
+
+### 🤖 Automacao_pyautogui
+Automation tool for tasks
+Python-based automation for repetitive tasks using pyautogui.
+Stack: Python · PyAutoGUI
+Impact:
+
+Automates mouse/keyboard actions
+Improves efficiency in daily workflows
+
+🔗 Repository
+
+### 📊 Dashboard-Vendas-streamlit
+Sales Dashboard with filters
+Interactive dashboard for sales analysis with filters.
+Stack: Python · Streamlit · Pandas
+Impact:
+
+Visualizes sales data
+Enables quick insights
+
+🔗 Repository
+
+### 🌐 Crud_flask
+Web CRUD application
+Simple CRUD web app built with Python and Flask.
+Stack: Python · Flask · HTML
+Impact:
+
+Manages data operations
+Responsive web interface
+
+🔗 Repository
+
+### 🚀 Your Next Project?
+Let's build something together
+I specialize in:
+
+SaaS platforms
+Workflow automation
+Website development
+
+📧 Let's talk
+
+🔨 Currently Working On
+
+Automation Tools - Enhancing pyautogui scripts for more complex tasks
+Web Apps - Building more Flask-based applications
+Learning: Advanced Python libraries & Streamlit for dashboards
