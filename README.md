@@ -2,10 +2,8 @@
 
 <div align="center">
 
-  <!-- 🐦 Cockatiel Coding - Pixel Art -->
-  <img src="./assets/cockatiel_coding.png" alt="Cockatiel Coding Pixel Art" width="360"/>
-  <br/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300"/>
+  <!-- 💻 Modern Tech Coding GIF -->
+  <img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" alt="Coding GIF" width="600"/>
 
   <br/><br/>
 
@@ -56,26 +54,15 @@ const kaua = {
 <div align="center">
 
   <a href="https://github.com/Tauge" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/🏢_Tauge-0066FF?style=for-the-badge&logoColor=white" alt="Tauge" />
-    <img src="https://img.shields.io/badge/Developer-00CC66?style=for-the-badge&logoColor=white" alt="Developer" />
+    <img src="https://img.shields.io/badge/Developer-555555?style=for-the-badge&logoColor=white" alt="Developer" />
+    <img src="https://img.shields.io/badge/Tauge-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="Tauge" />
   </a>
-
-  <br/><br/>
-
-  <table>
-    <tr>
-      <td align="center" width="80">
-        <img src="https://img.shields.io/badge/-0066FF?style=flat-square&logoColor=white" width="60" height="4" alt="blue"/>
-        <img src="https://img.shields.io/badge/-00AA55?style=flat-square&logoColor=white" width="60" height="4" alt="green"/>
-      </td>
-    </tr>
-  </table>
 
 </div>
 
-> 🚀 I develop software at **[Tauge](https://github.com/Tauge)**, focusing on **automation**, **responsive websites**, and **SaaS solutions**.
+> 🚀 I'm part of the **[Tauge](https://github.com/Tauge)** organization, where I develop software focusing on **automation**, **responsive websites**, and **SaaS solutions**.
 >
-> As part of the Tauge team, I build scalable applications and automate business workflows to drive efficiency.
+> At Tauge, I build scalable applications and automate business workflows to drive efficiency.
 
 ---
 
