@@ -1,8 +1,17 @@
 <!-- 🌎 GitHub Profile README -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Kau%C3%A3+Almeida;Building+applications+and+automations" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+  <!-- 🐦 Cockatiel Coding - Pixel Art -->
+  <img src="./assets/cockatiel_coding.png" alt="Cockatiel Coding Pixel Art" width="360"/>
+  <br/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300"/>
+
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Kau%C3%A3+Almeida;Full+Stack+Developer+%F0%9F%87%A7%F0%9F%87%B7;Building+apps%2C+automations+%26+SaaS" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kauã-almeida-214690326/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -20,20 +29,22 @@
 
 ```javascript
 const kaua = {
-  name: "Kauã",
+  name: "Kauã Almeida",
   location: "Brazil 🇧🇷",
-  role: "Developer",
+  role: "Full Stack Developer",
   company: "Tauge",
   experience: "Professional software developer",
   available: true,
   specialization: [
     "SaaS platforms",
     "Workflow automation",
-    "Website development"
+    "Full Stack Web Apps",
+    "Delivery & E-commerce Systems"
   ],
   recentWork: {
     automation: "Reduced manual workflows by 60% using n8n + Oracle APEX",
-    websites: "Built responsive websites for clients"
+    websites: "Built responsive websites for clients",
+    apps: "Delivery apps & financial goal trackers with React + TypeScript"
   }
 };
 ```
@@ -42,13 +53,29 @@ const kaua = {
 
 ## 🏢 Organization
 
-<p align="center">
-  <a href="https://github.com/Tauge" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Developer-Tauge-FF6B00?style=for-the-badge&logo=github&logoColor=white" alt="Organization: Tauge" />
-  </a>
-</p>
+<div align="center">
 
-> I develop software at **Tauge**, focusing on automation, responsive websites, and SaaS solutions.
+  <a href="https://github.com/Tauge" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/🏢_Tauge-0066FF?style=for-the-badge&logoColor=white" alt="Tauge" />
+    <img src="https://img.shields.io/badge/Developer-00CC66?style=for-the-badge&logoColor=white" alt="Developer" />
+  </a>
+
+  <br/><br/>
+
+  <table>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://img.shields.io/badge/-0066FF?style=flat-square&logoColor=white" width="60" height="4" alt="blue"/>
+        <img src="https://img.shields.io/badge/-00AA55?style=flat-square&logoColor=white" width="60" height="4" alt="green"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+> 🚀 I develop software at **[Tauge](https://github.com/Tauge)**, focusing on **automation**, **responsive websites**, and **SaaS solutions**.
+>
+> As part of the Tauge team, I build scalable applications and automate business workflows to drive efficiency.
 
 ---
 
@@ -59,20 +86,43 @@ const kaua = {
 <table>
   <tr>
     <td align="center" style="border: 1px solid rgba(255,255,255,0.06); padding: 12px;">
-      <b>Core Development</b>
+      <b>💻 Languages & Frameworks</b>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,flask,js,html,css&perline=5" alt="core stack" />
+      <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,tailwind&perline=7" alt="languages & frameworks" />
     </td>
   </tr>
   <tr>
     <td align="center" style="border: 1px solid rgba(255,255,255,0.06); padding: 12px;">
-      <b>Data & Automation</b>
+      <b>🔧 Backend & APIs</b>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,docker&perline=2" alt="data & automation" />
+      <img src="https://skillicons.dev/icons?i=flask,nodejs,vite&perline=5" alt="backend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: 1px solid rgba(255,255,255,0.06); padding: 12px;">
+      <b>🗄️ Databases & Cloud</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,supabase,vercel&perline=5" alt="databases & cloud" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Neon-00E5CC?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: 1px solid rgba(255,255,255,0.06); padding: 12px;">
+      <b>⚙️ DevOps & Tools</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&perline=4" alt="devops & tools" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: 1px solid rgba(255,255,255,0.06); padding: 12px;">
+      <b>🤖 Automation & Data</b>
       <br/><br/>
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
       <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX" />
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+      <img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyAutoGUI" />
     </td>
   </tr>
 </table>
@@ -96,6 +146,10 @@ const kaua = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KauaSlv14&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KauaSlv14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ---
 
 ## 🏆 Featured Projects
@@ -104,27 +158,57 @@ const kaua = {
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Automacao_pyautogui
+### 🍗 Frango Fácil
+**Delivery de Frango Assado**  
+Complete delivery platform with authentication, cart system, and order management.
+
+**Stack:** React · TypeScript · Tailwind · Supabase · Vercel  
+**Impact:**  
+- Full-stack delivery application with secure auth  
+- Real-time order tracking & management  
+
+🔗 [Repository](https://github.com/KauaSlv14/frangofacl) · 🌐 [Live Demo](https://frangofacl.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Cofre de Metas
+**Personal Financial Goals Tracker**  
+Web app for managing financial objectives with progress tracking, projections, and recurring payments.
+
+**Stack:** React · TypeScript · Vite · Tailwind · shadcn/ui  
+**Impact:**  
+- Smart financial projections  
+- Goal sharing with friends  
+
+🔗 [Repository](https://github.com/KauaSlv14/goal-navigator) · 🌐 [Live Demo](https://goal-navigator-lyart.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Automacao PyAutoGUI
 **Automation tool for repetitive tasks**  
 Python-based automation using PyAutoGUI to automate mouse and keyboard actions.
 
 **Stack:** Python · PyAutoGUI  
 **Impact:**  
 - Automates repetitive desktop tasks  
-- Improves efficiency in daily workflows
+- Improves efficiency in daily workflows  
 
 🔗 [Repository](https://github.com/KauaSlv14/Automacao_pyautogui)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Dashboard-Vendas-streamlit
+### 📊 Dashboard Vendas
 **Sales dashboard with interactive filters**  
 Interactive Streamlit dashboard for sales analysis and quick insights.
 
 **Stack:** Python · Streamlit · Pandas  
 **Impact:**  
-- Visualizes sales data for fast decision-making
+- Visualizes sales data for fast decision-making  
 
 🔗 [Repository](https://github.com/KauaSlv14/Dashboard-Vendas-streamlit)
 
@@ -133,13 +217,13 @@ Interactive Streamlit dashboard for sales analysis and quick insights.
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Crud_flask
+### 🌐 CRUD Flask
 **Web CRUD application**  
 Simple CRUD web app built with Flask with responsive UI.
 
 **Stack:** Python · Flask · HTML  
 **Impact:**  
-- Manages data operations with a clean interface
+- Manages data operations with a clean interface  
 
 🔗 [Repository](https://github.com/KauaSlv14/Crud_flask)
 
@@ -147,7 +231,7 @@ Simple CRUD web app built with Flask with responsive UI.
 <td width="50%" valign="top">
 
 ### 🚀 Want to collaborate?
-I build SaaS platforms, automation flows and dashboards — let’s talk!
+I build **SaaS platforms**, **delivery apps**, **automation flows** and **dashboards** — let's talk!
 
 📧 [Contact me](mailto:zka18952@gmail.com)
 
@@ -159,9 +243,10 @@ I build SaaS platforms, automation flows and dashboards — let’s talk!
 
 ## 🔨 Currently Working On
 
-- **Automation Tools** — Enhancing PyAutoGUI scripts for more complex workflows.  
-- **Web Apps** — Building more Flask-based applications and responsive websites.  
-- **Learning:** Advanced Python libraries & Streamlit for dashboards.
+- 🏢 **Tauge** — Developing automation solutions, SaaS platforms, and responsive websites.  
+- 🍗 **Frango Fácil** — Enhancing the delivery platform with new features.  
+- 💰 **Cofre de Metas** — Improving financial projections and recurring payment management.  
+- 📚 **Learning:** React ecosystem, TypeScript patterns, and advanced backend architectures.
 
 ---
 
@@ -170,9 +255,19 @@ I build SaaS platforms, automation flows and dashboards — let’s talk!
 | Service | Description |
 |---------|-------------|
 | **SaaS Development** | Building scalable SaaS platforms from concept to production. |
+| **Full Stack Apps** | React + TypeScript frontends with Node.js/Flask backends. |
 | **Workflow Automation** | Automating processes with n8n, Python, and Oracle APEX. |
 | **Website Development** | Creating responsive websites and web apps. |
 | **Data Dashboards** | Interactive dashboards with Streamlit and Python. |
+| **Delivery Platforms** | E-commerce and delivery systems with real-time features. |
 
 > **Currently available for freelance projects and consulting**  
 > 📅 [Schedule a call](mailto:zka18952@gmail.com)
+
+---
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00CC66&height=100&section=footer" alt="footer wave" width="100%"/>
+
+</div>
