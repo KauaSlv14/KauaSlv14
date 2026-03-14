@@ -1,26 +1,22 @@
-# README
+# Original README
 
-This is the README for my project. 
+This is the original content of the README.md file.
 
 ## Description
 
-This project does XYZ.
+This is a description of the project. 
 
 ## Installation
 
-Use the following command to install dependencies:
-
-```bash
-npm install
-```
+Instructions for installation.
 
 ## Usage
 
-Instructions on how to use this project.
+How to use the application.
 
 ## Contributing
 
-Please contribute to this project by doing XYZ.
+Guidelines for contributing to the project.
 
 ## License
 
