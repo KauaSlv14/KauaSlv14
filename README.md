@@ -54,7 +54,8 @@ const kaua = {
 <div align="center">
 
   <a href="https://github.com/TaugeTecnologia" target="_blank" rel="noopener">
-    <img src="./assets/tauge_logo.png" height="28" style="vertical-align: middle; margin-right: 5px;" /><img src="https://img.shields.io/badge/Tauge-0066FF?style=for-the-badge" alt="Tauge" style="vertical-align: middle;" /><img src="https://img.shields.io/badge/Developer-555555?style=for-the-badge" alt="Developer" style="vertical-align: middle; margin-left: 5px;" />
+    <img src="https://img.shields.io/badge/Tauge-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="Tauge" />
+    <img src="https://img.shields.io/badge/Developer-555555?style=for-the-badge&logoColor=white" alt="Developer" />
   </a>
 
 </div>
