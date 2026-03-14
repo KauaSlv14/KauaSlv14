@@ -53,14 +53,14 @@ const kaua = {
 
 <div align="center">
 
-  <a href="https://github.com/Tauge" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Developer-555555?style=for-the-badge&logoColor=white" alt="Developer" />
+  <a href="https://github.com/TaugeTecnologia" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Tauge-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="Tauge" />
+    <img src="https://img.shields.io/badge/Developer-555555?style=for-the-badge&logoColor=white" alt="Developer" />
   </a>
 
 </div>
 
-> 🚀 I'm part of the **[Tauge](https://github.com/Tauge)** organization, where I develop software focusing on **automation**, **responsive websites**, and **SaaS solutions**.
+> 🚀 I'm part of the **[Tauge](https://github.com/TaugeTecnologia)** organization, where I develop software focusing on **automation**, **responsive websites**, and **SaaS solutions**.
 >
 > At Tauge, I build scalable applications and automate business workflows to drive efficiency.
 
