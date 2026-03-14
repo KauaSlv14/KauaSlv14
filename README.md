@@ -2,23 +2,23 @@
 
 <div align="center">
 
-  <!-- 💻 Modern Tech Coding GIF -->
-  <img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" alt="Coding GIF" width="600"/>
+<!-- 💻 Modern Tech Coding GIF -->
+<img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" alt="Coding GIF" width="600"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Kau%C3%A3+Almeida;Full+Stack+Developer+%F0%9F%87%A7%F0%9F%87%B7;Building+apps%2C+automations+%26+SaaS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Kau%C3%A3+Almeida;Full+Stack+Developer+%F0%9F%87%A7%F0%9F%87%B7;Building+apps%2C+automations+%26+SaaS" alt="Typing SVG" />
 
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kauã-almeida-214690326/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:zka18952@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/KauaSlv14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/kauã-almeida-214690326/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:zka18952@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/KauaSlv14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KauaSlv14&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=KauaSlv14&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
@@ -27,23 +27,23 @@
 
 ```javascript
 const kaua = {
-  name: "Kauã Almeida",
-  location: "Brazil 🇧🇷",
-  role: "Full Stack Developer",
-  company: "Tauge",
-  experience: "Professional software developer",
-  available: true,
-  specialization: [
-    "SaaS platforms",
-    "Workflow automation",
-    "Full Stack Web Apps",
-    "Delivery & E-commerce Systems"
-  ],
-  recentWork: {
-    automation: "Reduced manual workflows by 60% using n8n + Oracle APEX",
-    websites: "Built responsive websites for clients",
-    apps: "Delivery apps & financial goal trackers with React + TypeScript"
-  }
+name: "Kauã Almeida",
+location: "Brazil 🇧🇷",
+role: "Full Stack Developer",
+company: "Tauge",
+experience: "Professional software developer",
+available: true,
+specialization: [
+"SaaS platforms",
+"Workflow automation",
+"Full Stack Web Apps",
+"Delivery & E-commerce Systems"
+],
+recentWork: {
+automation: "Reduced manual workflows by 60% using n8n + Oracle APEX",
+websites: "Built responsive websites for clients",
+apps: "Delivery apps & financial goal trackers with React + TypeScript"
+}
 };
 ```
 
@@ -71,47 +71,47 @@ const kaua = {
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center" style="border: 1px solid rgba(255,255,255,0.06); padding: 12px;">
-      <b>💻 Languages & Frameworks</b>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,tailwind&perline=7" alt="languages & frameworks" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid rgba(255,255,255,0.06); padding: 12px;">
-      <b>🔧 Backend & APIs</b>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=flask,nodejs,vite&perline=5" alt="backend" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid rgba(255,255,255,0.06); padding: 12px;">
-      <b>🗄️ Databases & Cloud</b>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=postgres,supabase,vercel&perline=5" alt="databases & cloud" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Neon-00E5CC?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid rgba(255,255,255,0.06); padding: 12px;">
-      <b>⚙️ DevOps & Tools</b>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&perline=4" alt="devops & tools" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid rgba(255,255,255,0.06); padding: 12px;">
-      <b>🤖 Automation & Data</b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-      <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-      <img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyAutoGUI" />
-    </td>
-  </tr>
+<tr>
+<td align="center" style="border: 1px solid rgba(255,255,255,0.06); padding: 12px;">
+ <b>💻 Languages & Frameworks</b>
+ <br/><br/>
+ <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,tailwind&perline=7" alt="languages & frameworks" />
+</td>
+</tr>
+<tr>
+<td align="center" style="border: 1px solid rgba(255,255,255,0.06); padding: 12px;">
+ <b>🔧 Backend & APIs</b>
+ <br/><br/>
+ <img src="https://skillicons.dev/icons?i=flask,nodejs,vite&perline=5" alt="backend" />
+</td>
+</tr>
+<tr>
+<td align="center" style="border: 1px solid rgba(255,255,255,0.06); padding: 12px;">
+ <b>🗄️ Databases & Cloud</b>
+ <br/><br/>
+ <img src="https://skillicons.dev/icons?i=postgres,supabase,vercel&perline=5" alt="databases & cloud" />
+ <br/><br/>
+ <img src="https://img.shields.io/badge/Neon-00E5CC?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
+ <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+</td>
+</tr>
+<tr>
+<td align="center" style="border: 1px solid rgba(255,255,255,0.06); padding: 12px;">
+ <b>⚙️ DevOps & Tools</b>
+ <br/><br/>
+ <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&perline=4" alt="devops & tools" />
+</td>
+</tr>
+<tr>
+<td align="center" style="border: 1px solid rgba(255,255,255,0.06); padding: 12px;">
+ <b>🤖 Automation & Data</b>
+ <br/><br/>
+ <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+ <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX" />
+ <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+ <img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyAutoGUI" />
+</td>
+</tr>
 </table>
 
 </div>
@@ -121,20 +121,20 @@ const kaua = {
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauaSlv14&theme=tokyonight" alt="profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauaSlv14&theme=tokyonight" alt="profile details" />
 </p>
 
 <p align="center">
-  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauaSlv14&theme=tokyonight&count_private=true" alt="stats" />
-  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KauaSlv14&theme=tokyonight&utcOffset=-3" alt="productive time" />
+<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauaSlv14&theme=tokyonight&count_private=true" alt="stats" />
+<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KauaSlv14&theme=tokyonight&utcOffset=-3" alt="productive time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KauaSlv14&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KauaSlv14&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KauaSlv14&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KauaSlv14&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -255,6 +255,6 @@ I build **SaaS platforms**, **delivery apps**, **automation flows** and **dashbo
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00CC66&height=100&section=footer" alt="footer wave" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00CC66&height=100&section=footer" alt="footer wave" width="100%"/>
 
 </div>
