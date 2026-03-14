@@ -54,7 +54,10 @@ const kaua = {
 <div align="center">
 
   <a href="https://github.com/TaugeTecnologia" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Tauge-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="Tauge" />
+    <div style="display: inline-block; vertical-align: middle; background-color: #0066FF; padding: 5px 15px; border-radius: 4px; height: 28px;">
+      <img src="./assets/tauge_logo.png" alt="Tauge Logo" height="18" style="vertical-align: middle; margin-right: 5px;"/>
+      <span style="color: white; font-family: sans-serif; font-weight: bold; vertical-align: middle;">TAUGE</span>
+    </div>
     <img src="https://img.shields.io/badge/Developer-555555?style=for-the-badge&logoColor=white" alt="Developer" />
   </a>
 
@@ -125,7 +128,7 @@ const kaua = {
 </p>
 
 <p align="center">
-  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauaSlv14&theme=tokyonight" alt="stats" />
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauaSlv14&theme=tokyonight&count_private=true" alt="stats" />
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KauaSlv14&theme=tokyonight&utcOffset=-3" alt="productive time" />
 </p>
 
@@ -134,7 +137,7 @@ const kaua = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KauaSlv14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KauaSlv14&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak" />
 </p>
 
 ---
