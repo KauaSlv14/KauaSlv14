@@ -168,7 +168,7 @@ Web app for managing financial objectives with progress tracking, projections, a
 - Smart financial projections  
 - Goal sharing with friends  
 
-🔗 [Repository](https://github.com/KauaSlv14/goal-navigator) · 🌐 [Live Demo](https://goal-navigator-lyart.vercel.app)
+🔗 [Repository](https://github.com/KauaSlv14/goal-navigator) · 🌐 [Live Demo](https://cofre-metas.vercel.app)
 
 </td>
 </tr>
