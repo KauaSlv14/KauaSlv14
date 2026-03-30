@@ -130,7 +130,7 @@ apps: "Delivery apps & financial goal trackers with React + TypeScript"
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=KauaSlv14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=KauaSlv14&theme=tokyonight&hide_border=true&starting_year=2025" alt="GitHub Streak" />
 </p>
 
 ---
