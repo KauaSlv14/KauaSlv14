@@ -53,6 +53,10 @@ apps: "Delivery apps & financial goal trackers with React + TypeScript"
 
 <div align="center">
 
+  <img src="./assets/tauge_logo.png" alt="Tauge Tecnologia" width="520" />
+
+  <br/><br/>
+
   <a href="https://github.com/TaugeTecnologia" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Tauge-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="Tauge" />
     <img src="https://img.shields.io/badge/Developer-555555?style=for-the-badge&logoColor=white" alt="Developer" />
@@ -121,12 +125,8 @@ apps: "Delivery apps & financial goal trackers with React + TypeScript"
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauaSlv14&theme=tokyonight" alt="profile details" />
-</p>
-
-<p align="center">
-<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauaSlv14&theme=tokyonight&count_private=true" alt="stats" />
-<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KauaSlv14&theme=tokyonight&utcOffset=-3" alt="productive time" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KauaSlv14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KauaSlv14&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
 
 <p align="center">
