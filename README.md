@@ -53,20 +53,13 @@ apps: "Delivery apps & financial goal trackers with React + TypeScript"
 
 <div align="center">
 
-  <img src="./assets/tauge_logo.png" alt="Tauge Tecnologia" width="520" />
-
-  <br/><br/>
-
   <a href="https://github.com/TaugeTecnologia" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Tauge-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="Tauge" />
-    <img src="https://img.shields.io/badge/Developer-555555?style=for-the-badge&logoColor=white" alt="Developer" />
+    <img src="https://img.shields.io/badge/Tauge%20Tecnologia-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Tauge on GitHub" />
   </a>
 
 </div>
 
 > 🚀 I'm part of the **[Tauge](https://github.com/TaugeTecnologia)** organization, where I develop software focusing on **automation**, **responsive websites**, and **SaaS solutions**.
->
-> At Tauge, I build scalable applications and automate business workflows to drive efficiency.
 
 ---
 
