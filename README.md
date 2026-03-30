@@ -54,7 +54,7 @@ apps: "Delivery apps & financial goal trackers with React + TypeScript"
 <div align="center">
 
   <a href="https://github.com/TaugeTecnologia" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Tauge%20Tecnologia-00B894?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220" alt="Tauge on GitHub" />
+    <img src="https://img.shields.io/badge/Tauge%20Tecnologia-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Tauge on GitHub" />
   </a>
 
 </div>
@@ -118,7 +118,7 @@ apps: "Delivery apps & financial goal trackers with React + TypeScript"
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KauaSlv14&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true" alt="stats" />
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauaSlv14&theme=tokyonight" alt="stats" />
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KauaSlv14&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
 
