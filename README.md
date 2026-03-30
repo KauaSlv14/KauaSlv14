@@ -118,9 +118,7 @@ apps: "Delivery apps & financial goal trackers with React + TypeScript"
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FKauaSlv14%3Fy%3D2025&query=%24.total%5B%222025%22%5D&label=Contributions%202025&style=for-the-badge&color=3FB950&labelColor=0D1117" alt="Contributions 2025" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FKauaSlv14%3Fy%3D2026&query=%24.total%5B%222026%22%5D&label=Contributions%202026&style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="Contributions 2026" />
-<img src="https://img.shields.io/badge/Total%20Contributions%20(2025%2B2026)-318?style=for-the-badge&color=F59E0B&labelColor=0D1117" alt="Total Contributions 2025 plus 2026" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FKauaSlv14%3Fy%3D2026&query=%24.total%5B%222026%22%5D&label=Commits%202026&style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="Commits 2026" />
 </p>
 
 <p align="center">
