@@ -115,7 +115,7 @@ apps: "Delivery apps & financial goal trackers with React + TypeScript"
 
 ---
 
-## 📈 GitHub Status
+## 📈 GitHub Stats
 
 <p align="center">
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FKauaSlv14%3Fy%3D2026&query=%24.total%5B%222026%22%5D&label=Commits%202026&style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="Commits 2026" />
