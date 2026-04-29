@@ -63,7 +63,7 @@ apps: "Delivery apps & financial goal trackers with React + TypeScript"
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacki
 
 <div align="center">
 
