@@ -28,7 +28,7 @@
 ```javascript
 const kaua = {
 name: "Kauã Almeida",
-location: "Brazil 🇧🇷",
+location: "Brazil 🇧🇷/Fortaleza",
 role: "Full Stack Developer",
 company: "Tauge",
 experience: "Professional software developer",
