@@ -30,7 +30,7 @@ const kaua = {
 name: "Kauã Almeida",
 location: "Brazil 🇧🇷/Fortaleza",
 role: "Full Stack Developer",
-company: "Tauge",
+company: "Tauge Tecnologia",
 experience: "Professional software developer",
 available: true,
 specialization: [
