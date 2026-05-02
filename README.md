@@ -41,7 +41,7 @@ specialization: [
 ],
 recentWork: {
 automation: "Reduced manual workflows by 60% using n8n + Oracle APEX",
-website: "Built responsive websites for clients",
+websites: "Built responsive websites for clients",
 apps: "Delivery apps & financial goal trackers with React + TypeScript"
 }
 };
