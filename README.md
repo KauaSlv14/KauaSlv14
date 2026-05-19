@@ -94,7 +94,7 @@ apps: "Delivery apps & financial goal trackers with React + TypeScript"
 </tr>
 <tr>
 <td align="center" style="border: 1px solid rgba(255,255,255,0.06); padding: 12px;">
- <b>⚙️ DevOps & Toolls</b>
+ <b>⚙️ DevOps & Tools</b>
  <br/><br/>
  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&perline=4" alt="devops & tools" />
 </td>
